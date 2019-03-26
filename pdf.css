@@ -1,0 +1,47 @@
+#container {
+    margin-right: 30%;
+}
+
+.head {
+    text-align: center;
+}
+
+.button {
+    margin-top: 5px;
+    color: gray;
+}
+
+.question {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid;
+    width: 200px;
+    height: 150px;
+    display: inline-block;
+}
+
+.question_detail {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+ }
+
+.detail_section {
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.comments {
+    padding: 0.5px;
+}
+
+.download{
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
